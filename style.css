@@ -1,0 +1,35 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+}
+.header{
+    background: linear-gradient(to bottom, rgba(0,0,0, 0), rgba(0,0,0, 100) ) ,url("media/images/first-banner.jpg");
+    background-size: 100%;
+    text-align: center;
+    background-repeat: no-repeat;
+    padding: 210px 100px;
+}
+
+h1{
+    font-size:100px;
+    color: rgb(255, 255, 255);
+    font-weight:900px;
+    margin-bottom: 10px;
+}
+h3{
+    font-size: 25px; 
+    font-weight: 200;
+    color: rgb(224, 225, 226);
+}
+.button{
+    text-decoration:none;
+    color: #FFFFFF;
+    background-color: #FF5959;
+    font-size: 24px;
+    padding: 15px 15px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+.first_text{
+    padding-bottom: 40px;
+}
