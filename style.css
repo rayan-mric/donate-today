@@ -2,12 +2,14 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
 }
+
 .header{
     background: linear-gradient(to bottom, rgba(0,0,0, 0), rgba(0,0,0, 100) ) ,url("media/images/first-banner.jpg");
     background-size: 100%;
     text-align: center;
     background-repeat: no-repeat;
-    padding: 250px 100px;
+    padding: 237px 100px;
+    
 }
 
 h1{
@@ -42,7 +44,7 @@ h5{
     color: #FFFFFF;
     background-color: #FF5959;
     font-size: 24px;
-    padding: 25px 25px;
+    padding: 15px 25px;
     border-radius: 5px;
     font-weight: 600;
 }
@@ -51,7 +53,7 @@ h5{
 }
 .donation_today{
     text-align: center;
-
+    margin: 150px 0px;
 }
 .gray{
     color: #707070;
@@ -76,6 +78,7 @@ hr{
 }
 .donation_plan{
     text-align: center;
+    margin:150px 50px ;
 }
 .plans{
     text-align: left;
@@ -87,6 +90,7 @@ hr{
     margin: 10px 20px;
     padding: 40px 22px;
     background-color: aqua;
+    width: 30%;
     
 }
 .icon{
@@ -104,6 +108,7 @@ hr{
 }
 .update{
     text-align: center;
+    margin: 150px 0px;
 }
 .background_area{
     background-color: #FFF4D6;
@@ -137,6 +142,7 @@ footer{
     padding: 100px;
     background-color: #121212;
     text-align: center;
+    margin: 150px 0px 0px;
 }
 #humble{
     font-family:'Lobster', cursive; 
@@ -147,4 +153,9 @@ footer{
     font-family: sans-serif;
     font-size: 16px;
     color: #D9DBE1;
+}
+
+.blog{
+    text-align: center;
+    margin: 150px 20%;
 }
