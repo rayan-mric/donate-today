@@ -32,7 +32,10 @@ h4{
     background-color:#FAFAFA ;
     margin: 0px 10px;
     border-radius: 5px;
-
+}
+h5{
+    font-size:25px ;
+    margin: 10px;
 }
 .button{
     text-decoration:none;
@@ -47,16 +50,16 @@ h4{
     padding-bottom: 40px;
 }
 .donation_today{
-    background-color: #FFFFFF;
     text-align: center;
-    margin: auto;
+
 }
 .gray{
     color: #707070;
 }
 .flex{
     display: flex;
-    margin: 20px 30%;
+    margin: 10px 27%;
+    
 }
 #pink{
     color:#FF5959;
@@ -69,6 +72,33 @@ h4{
 hr{
     width : 60%;
     height : 1px;
-    color: #DADADA;
     margin-bottom: 40px;
+}
+.donation_plan{
+    text-align: center;
+}
+.plans{
+    text-align: left;
+    display: flex;
+    margin: 12px 10% ;
+    
+}
+.box{
+    margin: 10px 20px;
+    padding: 40px 22px;
+    background-color: aqua;
+    
+}
+.icon{
+    color: #121212;
+    size: 80%;
+}
+.food{
+    background-color:#4F9DA610 ;
+}
+.shelter{
+    background-color:#FF595910 ;
+}
+.education{
+    background-color:#FFF4D6 ;
 }
