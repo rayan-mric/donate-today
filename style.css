@@ -16,20 +16,59 @@ h1{
     font-weight:900px;
     margin-bottom: 10px;
 }
+h2{
+    font-size: 50px; 
+    font-weight: 800;
+    color:#121212;
+}
 h3{
-    font-size: 25px; 
+    font-size: 22px; 
     font-weight: 200;
     color: rgb(224, 225, 226);
+}
+h4{
+    font-size: 30px;
+    padding: 40px;
+    background-color:#FAFAFA ;
+    margin: 0px 10px;
+    border-radius: 5px;
+
 }
 .button{
     text-decoration:none;
     color: #FFFFFF;
     background-color: #FF5959;
     font-size: 24px;
-    padding: 15px 15px;
+    padding: 15px 25px;
     border-radius: 5px;
     font-weight: 600;
 }
 .first_text{
     padding-bottom: 40px;
+}
+.donation_today{
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: auto;
+}
+.gray{
+    color: #707070;
+}
+.flex{
+    display: flex;
+    margin: 20px 30%;
+}
+#pink{
+    color:#FF5959;
+    background-color: #FFEEEE;
+    border: #FF5959 solid 2px;
+}
+#light_gray{
+    color:#B3B3B3
+}
+hr{
+    width : 60%;
+    height : 1px;
+    color: #DADADA;
+    margin-bottom: 40px;
 }
