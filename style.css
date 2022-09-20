@@ -132,5 +132,19 @@ hr{
 #subscribe_box{
     padding-right: 62%;
     padding-left:10px ;
-    
+}
+footer{
+    padding: 100px;
+    background-color: #121212;
+    text-align: center;
+}
+#humble{
+    font-family:'Lobster', cursive; 
+    font-size: 40px;
+    color: #FF5959;
+}
+#do_it{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #D9DBE1;
 }
